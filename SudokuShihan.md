@@ -2,9 +2,9 @@
 
 # Sudoku Shihan
 
-<div class="col-sm-6 col-lg-4 mb-4">
-    <div class="card p-3">
-        <figure class="p-3 mb-0">
+<div>
+    <div>
+        <figure>
             <blockquote class="blockquote">
             <p>Shihan (師範): Japanese term that is used in many Japanese martial arts as an honorific title for expert or senior instructors.</p>
             </blockquote>
