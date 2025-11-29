@@ -6,7 +6,7 @@
     <div>
         <figure>
             <blockquote class="blockquote">
-            <p>Shihan (師範): Japanese term that is used in many Japanese martial arts as an honorific title for expert or senior instructors.</p>
+            <p><strong><i>Shihan</i></strong> (師範): Japanese term that is used in many Japanese martial arts as an honorific title for expert or senior instructors.</p>
             </blockquote>
             <figcaption class="blockquote-footer mb-0 text-body-secondary">
             <cite title="Wikipedia">Wikipedia</cite>
