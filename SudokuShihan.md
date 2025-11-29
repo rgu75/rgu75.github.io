@@ -2,6 +2,19 @@
 
 # Sudoku Shihan
 
+<div class="col-sm-6 col-lg-4 mb-4">
+    <div class="card p-3">
+        <figure class="p-3 mb-0">
+            <blockquote class="blockquote">
+            <p>Shihan (師範): Japanese term that is used in many Japanese martial arts as an honorific title for expert or senior instructors.</p>
+            </blockquote>
+            <figcaption class="blockquote-footer mb-0 text-body-secondary">
+            <cite title="Wikipedia">Wikipedia</cite>
+            </figcaption>
+        </figure>
+    </div>
+</div>
+
 Sudoku puzzles for the braves.
 
 Yet again another Sudoku? This one specialises in difficult puzzles. Will you be strong enough?
